@@ -1,0 +1,52 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: #1996da;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  padding-top: 40px;
+  font-weight: lighter;
+  font-size: 35px;
+}
+
+h3 {
+  padding-top: 35px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+}
+
+.column-33 {
+  width: calc(100% / 3);
+  padding: 0 15px;
+}
+
+.column-100 {
+  width: 100%;
+}
+
+.img-container {
+  background-color: white;
+  border-radius: 50%;
+  width: 80px;
+  margin: 0 auto;
+  padding: 18px;
+}
+
+img {
+  width: 100%;
+}
