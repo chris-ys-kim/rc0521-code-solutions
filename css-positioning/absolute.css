@@ -25,9 +25,10 @@
   color: white;
   -webkit-text-stroke: 1px black;
   text-transform: uppercase;
-  padding-top: 140px;
 }
 
 .overlay {
   background: linear-gradient(transparent, rgba(0, 0, 0, 0.75));
+  height: 150px;
+  width: 1px;
 }
