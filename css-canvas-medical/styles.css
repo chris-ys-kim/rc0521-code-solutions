@@ -1,0 +1,221 @@
+h2 {
+  padding-top: 50px;
+}
+
+body {
+  font-family: 'Avenir', sans-serif;
+}
+
+section {
+  background-color: #fafafa;
+  width: 1350px;
+  margin-left: 50px;
+  margin-top: 40px;
+  padding-bottom: 100px;
+}
+
+.clinic-paragraph {
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.clinic-heading {
+  font-size: 40px;
+}
+
+.learn-heading {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.learn-paragraph {
+  font-size: 18px;
+}
+
+.font-gray {
+  color: #6f6f6f;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.size {
+  font-size: 24px;
+}
+
+.container {
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+.blue-container {
+  width: 200px;
+  margin-top: 25px;
+  margin-left: 140px;
+}
+
+.nav {
+  color: #b6b6b6;
+  padding: 0 20px;
+  font-size: 18px;
+}
+
+.nav:hover {
+  background-color: #294464;
+  color: white;
+  padding: 16px 20px;
+  border-radius: 5px;
+}
+
+.nav-button {
+  background-color: #294464;
+  color: white;
+  padding: 16px 20px;
+  border-radius: 5px;
+}
+
+hr {
+  margin-top: 20px;
+  border: 1px solid #f1f2f4;
+}
+
+.img-text {
+  position: absolute;
+  color: white;
+  top: 110px;
+  left: 220px;
+}
+
+.img-heading {
+  font-size: 50px;
+}
+
+.img-paragraph {
+  font-size: 19px;
+  line-height: 30px;
+}
+
+.start-button {
+  background-color: #294464;
+  color: white;
+  padding: 25px 65px;
+  border-style: none;
+  border-radius: 5px;
+  font-size: 20px;
+  margin-top: 14px;
+}
+
+.tiempos-font {
+  font-family: "Tiempos Headline", sans-serif;
+}
+
+.column-100 {
+  width: 100%;
+  position: relative;
+}
+
+.column-50-1 {
+  width: 50%;
+}
+
+.column-50-2 {
+  width: 50%;
+  margin-top: 40px;
+  margin-right: 6px;
+}
+
+.column-50 {
+  width: 50%;
+}
+
+.column-25 {
+  width: 25%;
+}
+
+.row {
+  display: flex;
+}
+
+.img-container {
+  padding: 30px 140px;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+  width: 1160px;
+  height: 652px;
+  position: absolute;
+}
+
+img {
+  width: 100%;
+}
+
+.column-0 {
+  text-align: right;
+}
+
+.start-button-1 {
+  background-color: #294464;
+  color: white;
+  padding: 20px 60px;
+  border-style: none;
+  border-radius: 5px;
+  font-size: 20px;
+  margin-top: 75px;
+  margin-left: 450px;
+}
+
+.learn-more {
+  padding-left: 140px;
+  padding-bottom: 10px;
+}
+
+.gray-background {
+  background-color: #525351;
+}
+
+.canvas-img-container {
+  width: 200px;
+  margin-left: 85px;
+  margin-top: 100px;
+}
+
+.address {
+  color: white;
+  margin-left: 80px;
+  margin-top: 50px;
+  line-height: 30px;
+}
+
+.comp {
+  color: white;
+  margin-top: 80px;
+}
+
+.display-block {
+  display: block;
+  margin: 15px 0;
+  font-size: 20px;
+}
+
+.gray {
+  background-color: #fafafa;
+}
+
+.column-110 {
+  color: #808080;
+  margin-left: 50px;
+  margin-top: 0;
+  font-size: 26px;
+  display: flex;
+}
+
+.getmeout {
+  margin-top: 70px;
+  margin-bottom: 0;
+  margin-left: 20px;
+  padding-right: 30px;
+}
