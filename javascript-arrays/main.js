@@ -11,6 +11,8 @@ console.log('value of colors[2]:', colors[2]);
 console.log('America is ' + colors[0] + ', ' + colors[1] + ', and ' + colors[2] + '.');
 colors[2] = 'green';
 
+console.log('Mexico is ' + colors[0] + ', ' + colors[1] + ', and ' + colors[2] + '.');
+
 var students = [
   'John',
   'Viktor',
