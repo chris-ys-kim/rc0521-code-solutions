@@ -1,0 +1,39 @@
+img {
+  width: 100%;
+}
+
+.column-25 {
+  width: 25%;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.img-container {
+  width: 450px;
+}
+
+.img-container-1 {
+  width: 150px;
+}
+
+p {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+h3 {
+  text-align: center;
+}
+
+section {
+  background-color: #f7f8fa;
+}
+
+.center-img {
+  display: flex;
+  justify-content: center;
+  margin-right: 10px;
+}
