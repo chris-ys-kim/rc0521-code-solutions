@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.row {
+  justify-content: center;
+  display: flex;
+}
+
+.container {
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+.img-container {
+  max-width: 270px;
+  height: 400px;
+}
+
+.column-20 {
+  width: 20%;
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  text-align: left;
+}
+
+del {
+  color: #dbdbdb;
+}
+
+.size {
+  color: #dbdbdb;
+}
+
+.color {
+  background-color: #faeee3;
+  display: inline;
+}
