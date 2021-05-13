@@ -1,3 +1,11 @@
+#timbl {
+  color: red;
+}
+
+#verou {
+  color: black !important;
+}
+
 * {
   color: blue;
 }
@@ -8,12 +16,4 @@ p {
 
 .bio {
   color: green;
-}
-
-#timbl {
-  color: red;
-}
-
-#verou {
-  color: black !important;
 }
