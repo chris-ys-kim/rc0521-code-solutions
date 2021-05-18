@@ -5,7 +5,7 @@ var $click = document.querySelector('.click-count');
 
 function increment(event) {
   clickCount++;
-  $click.textContent = $click.textContent.replace(clickCount - 1, clickCount);
+  $click.textContent = ('Clicks : ' + clickCount);
   if (clickCount < 4) {
     $hot.className = 'hot-button cold';
   } else if (clickCount < 7) {

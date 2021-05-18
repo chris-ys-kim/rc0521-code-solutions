@@ -14,25 +14,6 @@ section {
   padding-bottom: 100px;
 }
 
-.clinic-paragraph {
-  font-size: 20px;
-  line-height: 28px;
-}
-
-.clinic-heading {
-  font-size: 40px;
-}
-
-.learn-heading {
-  font-size: 40px;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.learn-paragraph {
-  font-size: 18px;
-}
-
 .font-gray {
   color: #6f6f6f;
 }
@@ -84,8 +65,8 @@ hr {
 .img-text {
   position: absolute;
   color: white;
-  top: 110px;
-  left: 220px;
+  top: 230px;
+  left: 255px;
 }
 
 .img-heading {
@@ -167,11 +148,6 @@ img {
   font-size: 20px;
   margin-top: 75px;
   margin-left: 450px;
-}
-
-.learn-more {
-  padding-left: 140px;
-  padding-bottom: 10px;
 }
 
 .gray-background {

@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.light.on {
+  background-color: #faea84;
+  width: 340px;
+  height: 340px;
+  border-radius: 50%;
+}
+
+.light.off {
+  background-color: #252525;
+  width: 340px;
+  height: 340px;
+  border-radius: 50%;
+  box-shadow: 0 -15px 5px black;
+}
+
+.light-container.on {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 700px;
+  background-color: #fef9f1;
+  min-height: 100vh;
+}
+
+.light-container.off {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  min-height: 100vh;
+  background-color: #111;
+}
