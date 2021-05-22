@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-size: 25px;
+}
+
+.right {
+  color: #27cd1c;
+}
+
+.wrong {
+  color: red;
+}
+
+.underline {
+  border-bottom: solid black;
+}
+
+.red {
+  border-bottom: solid red;
+}
