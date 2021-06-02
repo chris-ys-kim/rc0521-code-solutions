@@ -10,7 +10,8 @@ function countdown() {
     $h1.textContent = '1';
   } else if ($h1.textContent === '1') {
     $h1.textContent = 'Good News Everyone!';
+    clearInterval(clear);
   }
 }
 
-setInterval(countdown, 1000);
+var clear = setInterval(countdown, 1000);
