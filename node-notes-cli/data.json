@@ -1,0 +1,11 @@
+{
+  "nextId": 7,
+  "notes": {
+    "1": "Ilike to eat.",
+    "2": "I like to take naps.",
+    "3": "In JavaScript, the value of `this` is determined when a function is called; not when it is defined.",
+    "4": "A closure is formed when a function retains access to variables in its lexical scope.",
+    "5": "I like to fly.",
+    "6": "I like to take a lonnnnnnng nap."
+  }
+}
