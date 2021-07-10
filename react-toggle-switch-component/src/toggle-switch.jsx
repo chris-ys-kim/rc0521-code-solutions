@@ -5,29 +5,11 @@ class ToggleSwitch extends React.Component {
     super(props);
     this.state = { isClicked: true };
     this.handleClick = this.handleClick.bind(this);
-    // this.status = this.status.bind(this);
-    // this.changeButton = this.changeButton.bind(this);
   }
 
   handleClick() {
     this.setState({ isClicked: !this.state.isClicked });
   }
-
-  // status() {
-  //   if (this.state.isClicked) {
-  //     return 'switch on';
-  //   } else {
-  //     return 'switch off';
-  //   }
-  // }
-
-  // changeButton() {
-  //   if (this.state.isClicked) {
-  //     return 'right';
-  //   } else {
-  //     return 'left';
-  //   }
-  // }
 
   render() {
     return (
