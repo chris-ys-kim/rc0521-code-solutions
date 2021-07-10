@@ -1,0 +1,41 @@
+.switch {
+  width: 6rem;
+  height: 3rem;
+  border: 3px solid black;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+
+.on {
+  background-color: #6aa84f;
+}
+
+.off {
+  background-color: #e2e2e2;
+}
+
+.circle {
+  position: relative;
+  width: 3em;
+  height: 3rem;
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 50%;
+}
+
+.right {
+  bottom: 0.2rem;
+  left: 2.9rem;
+}
+
+.left {
+  bottom: 0.2rem;
+  right: 0.2rem;
+}
+
+p {
+  margin-left: 7rem;
+  font-size: 3rem;
+  position: relative;
+  bottom: 6.5rem;
+}
