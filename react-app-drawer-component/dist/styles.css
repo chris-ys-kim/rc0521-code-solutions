@@ -1,0 +1,32 @@
+i {
+  font-size: 3rem;
+  cursor: pointer;
+}
+
+body {
+  margin: 0;
+}
+
+.hidden {
+  display: none;
+}
+
+.modalOn {
+  background-color: rgba(0, 0, 0, 0.4);
+  width: 100vw;
+  height: 100vh;
+}
+
+.modalOff {
+  background-color: white;
+  width: 100vw;
+  height: 100vh;
+}
+
+.tabContainer {
+  position: absolute;
+  padding-left: 1rem;
+  background-color: white;
+  width: 10%;
+  height: 100vh;
+}
