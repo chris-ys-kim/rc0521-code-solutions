@@ -41,7 +41,7 @@ app.post('/api/auth/sign-up', (req, res, next) => {
     .hash(password)
     .then(hashedPw => {
       const sql = `
-    insert into 'users'('username', 'hashedPassword');
+    insert into 'users'('username', 'hashedPw');
     values($1, $2)
     returning*
     `;
